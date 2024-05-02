@@ -1,6 +1,6 @@
-# - Julio Thomazelli 🧘‍♂️
+# Julio Thomazelli 🧘‍♂️
 
-## Hi there, my name is Julio and welcome to my Github. 👋
+Welcome to my Github, feel free to see and clone all of my experimentals and repositories.
 
 # - About me 💻
 🔭 I’m currently working on NodeJs, ReactJs and MySQL.
@@ -13,7 +13,7 @@
 
 <br>
 
-# - Skills
+# - Skills 🛠️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
 
 <br>
 
-# - Contact
+# - Contact 📩
 
 <div>
   <a href="https://www.juliothomazelli.com.br">
