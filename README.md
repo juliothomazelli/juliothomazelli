@@ -1,15 +1,19 @@
-# Julio Thomazelli
+# - Julio Thomazelli 🧘‍♂️
 
 ## Hi there, my name is Julio and welcome to my Github. 👋
 
-# About me 💻
+# - About me 💻
 🔭 I’m currently working on NodeJs, ReactJs and MySQL.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliothomazelli)](https://github.com/juliothomazelli/github-readme-stats)
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliothomazelli&show_icons=true&theme=dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliothomazelli&hide=html&layout=compact&theme=dark">  
+</div>
+
 
 <br>
 
-# Skills
+# - Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +29,7 @@
 
 <br>
 
-# Contact
+# - Contact
 
 <div>
   <a href="https://www.juliothomazelli.com.br">
