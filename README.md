@@ -2,7 +2,7 @@
 
 Welcome to my Github, feel free to see and clone all of my experimentals and repositories.
 
-# - About me 💻
+## - About me 💻
 🔭 I’m currently working on NodeJs, ReactJs and MySQL.
 
 <div>
@@ -13,7 +13,7 @@ Welcome to my Github, feel free to see and clone all of my experimentals and rep
 
 <br>
 
-# - Skills 🛠️
+## - Skills 🛠️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +30,7 @@ Welcome to my Github, feel free to see and clone all of my experimentals and rep
 
 <br>
 
-# - Contact 📩
+## - Contact 📩
 
 <div>
   <a href="https://www.juliothomazelli.com.br">
